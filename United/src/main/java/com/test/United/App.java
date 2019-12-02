@@ -10,11 +10,14 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("Hello Selenium ");
-        int a = 0;
-        int b = 0;
+        int  i= 10;
+       int b = 4;
         int sum = 0;
         
        System.out.println("sum");
+       
+       for(i=10;i<=10;i++)
+       System.out.println(i);
         
     }
 }
