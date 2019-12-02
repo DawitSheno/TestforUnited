@@ -18,6 +18,7 @@ public class App
        
        for(i=10;i<=10;i++)
        System.out.println(i);
+       system.out.println("Hello java");
         
     }
 }
